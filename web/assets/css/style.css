@@ -1,0 +1,21 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.tablechoosedoctor {
+    padding-left: 102px;
+}
+
+.informationtable {
+    padding-left: 200px;
+}
+
+
+
+
+.active{
+    border-bottom: 3px solid #00D9A5;
+}
+
